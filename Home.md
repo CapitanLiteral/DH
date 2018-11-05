@@ -7,7 +7,7 @@
 
 ---
 
-![Psyker](./Img/PsiquicoPrimaris.jpg)
+![Adeptus Mechanicus](./Img/Mechanicum_cinco.jpg)
 
 ## Información interesante
 

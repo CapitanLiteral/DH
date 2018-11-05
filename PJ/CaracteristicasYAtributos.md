@@ -2,46 +2,39 @@
 
 ## Características
 
-- **39** (HA) Habilidad de Armas
-- **29** (HP) Habilidad de Proyectiles
+- **33** (HA) Habilidad de Armas
+- **32** (HP) Habilidad de Proyectiles
 - **31** (F) Fuerza
-- **31** (R) Resistencia
-- **38** (AG) Agilidad
+- **28** (R) Resistencia
+- **37** (AG) Agilidad
 - **30** (INT) Inteligencia
-- **30** (PER) Percepción
-- **52** (V) Voluntad (42 +5 +5)
-- **29** (EM) Empatía
+- **27** (PER) Percepción
+- **37** (V) Voluntad (42 +5 +5)
+- **40** (EM) Empatía
 
 ## Habilidades
 
 - **Hablar idioma** (Gótico vulgar) (INT)
-- **Hablar idioma** (Dialecto nave) (INT)
 - **Leer/Escribir** (Gótico vulgar) (INT)
-- **Oficio** (Adivino) (EM)
+- **Hablar idioma** (Colmena) (INT)
+- **Leer/Escribir** (Colmena) (INT)
+- **Hablar idioma** (Lengua secreta Tecnológica) (INT)
+- **Competencia tecnológica** (INT)
+- **Oficio copista** (INT)
 
-		Se usa para dar la impresión de estar prediciendo el futuro.
-		Me lleva un día entero ganar dinero usando esta habilidad.
 	
-- **Invocación** (V)
+- **asdasdasdasd** (V) (p.123)
 
-		Permite incrementar la tirada de Poder que deba realizar para usar un poder psíquico en una cantidad equivalente a mi Bono por Voluntad.
-		Cada tirada consume una acción completa, durante la cual recurro a diversas técnicas para despejar mi mente, como musitar mantras, meditar, acariciar mi foco psíquico y demás.
-		Un éxito en la tirada indique que he preparado mi mente para acceder a la disformidad, y en el asalto siguiente podré añadir mi Bono por Voluntad (además de cualquier otro bono pertinente) a mi tirada de Poder.
-		Fallar una tirada de Invocación significa que no estoy lo bastante concentrado.
-	
-- **Psiniscencia** (PER) (p.106)
+		asdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasd
+		asdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasd
+		asdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasd
+		asdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasd
 
-		Puede usarse para sintonizar con las fluctuaciones de la disformidad y el inmaterium. La aplicación más común de esta habilidad consiste en detectar la presencia o asuencia de demonios y de otros psíquicos.
-		Si se consigue la tirada, logro proyectar mis sentidos a una distancia igual a mi bono de Percepción más 1d10 (metros). Cada nivel de éxito obtenido en la tirada añade 1d10+BP metros a ese total.
-		También se puede usar Psiniscencia para detectar fenómenos psíquicos inusuales, zonas de espacio real que hayan sido "perturbadas", lugares que bloqueen o protejan contra el flujo del inmaterium, etc.
-		El DJ puede hacer esta tirada en secreto y comunicar al jugador tan sólo lo que su personaje haya podido detectar.
-	
-	
 	Niveles de éxito|Resultado
 	---|---
-	Normal|El personaje es consciente de que existe una perturbación en el inmaterium.
-	Uno|EEl personaje localiza el punto de origen general del fenómeno.
-	Dos o más|El personaje halla la ubicación exacta del individuo que está canalizando o bloqueando el inmaterium.
+	Normal|asdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasd
+	Uno|asdasdasdasd asdasdasdasdasdasdasdasd    asdasdasdasd
+	Dos o más|asdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasd
 	
 
 ## Talentos y rasgos
